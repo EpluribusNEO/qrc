@@ -2,6 +2,9 @@
  и быстрый CLI-инструмент для генерации QR-кодов из текста или файла.  
 Работает в Windows, устанавливается одной командой.
 
+## Проект доступен на PyPi.org
+Для скачивания перейди по ссылке:[PyPI - qrc-tool](https://pypi.org/project/qrc-tool)
+
 ## Установка в Windows (автоматическая ??)
 
 1. Скачай [qrc](https://github.com/EpluribusNEO/qrc)
